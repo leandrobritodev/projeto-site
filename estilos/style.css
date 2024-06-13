@@ -17,8 +17,18 @@ main{
 
 h1{
     font-size: 22px;
-    color: blueviolet;
+    color: #37006B;
 }
 h2{
-    color: blueviolet;
+    color: #37006B;;
+}
+
+a{
+    color: #37006B;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+img.lado{
+    float: right;
 }
